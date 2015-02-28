@@ -1,1 +1,2 @@
 # COOL-compiler
+cool
